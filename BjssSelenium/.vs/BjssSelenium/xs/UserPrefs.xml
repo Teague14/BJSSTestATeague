@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{20652414-2060-4B87-AF50-71FCE05B3FA1}|Unit Tests">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BjssSelenium/Tests/Tests.cs">
+    <Files>
+      <File FileName="BjssSelenium/Tests/Tests.cs" Line="64" Column="87" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.BjssSelenium PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

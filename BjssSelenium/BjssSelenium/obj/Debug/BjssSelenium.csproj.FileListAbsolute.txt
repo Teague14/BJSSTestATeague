@@ -10,3 +10,16 @@
 /Users/teague/Projects/BjssSelenium/BjssSelenium/bin/Debug/WebDriver.Support.dll
 /Users/teague/Projects/BjssSelenium/BjssSelenium/bin/Debug/WebDriver.xml
 /Users/teague/Projects/BjssSelenium/BjssSelenium/bin/Debug/WebDriver.Support.xml
+/Users/teague/Downloads/GitHub/BJSSTestATeague/BjssSelenium/BjssSelenium/bin/Debug/BjssSelenium.dll
+/Users/teague/Downloads/GitHub/BJSSTestATeague/BjssSelenium/BjssSelenium/bin/Debug/BjssSelenium.pdb
+/Users/teague/Downloads/GitHub/BJSSTestATeague/BjssSelenium/BjssSelenium/bin/Debug/nunit.framework.dll
+/Users/teague/Downloads/GitHub/BJSSTestATeague/BjssSelenium/BjssSelenium/bin/Debug/WebDriver.dll
+/Users/teague/Downloads/GitHub/BJSSTestATeague/BjssSelenium/BjssSelenium/bin/Debug/WebDriver.Support.dll
+/Users/teague/Downloads/GitHub/BJSSTestATeague/BjssSelenium/BjssSelenium/bin/Debug/nunit.framework.xml
+/Users/teague/Downloads/GitHub/BJSSTestATeague/BjssSelenium/BjssSelenium/bin/Debug/WebDriver.xml
+/Users/teague/Downloads/GitHub/BJSSTestATeague/BjssSelenium/BjssSelenium/bin/Debug/WebDriver.Support.xml
+/Users/teague/Downloads/GitHub/BJSSTestATeague/BjssSelenium/BjssSelenium/obj/Debug/BjssSelenium.csprojAssemblyReference.cache
+/Users/teague/Downloads/GitHub/BJSSTestATeague/BjssSelenium/BjssSelenium/obj/Debug/BjssSelenium.csproj.CoreCompileInputs.cache
+/Users/teague/Downloads/GitHub/BJSSTestATeague/BjssSelenium/BjssSelenium/obj/Debug/BjssSelenium.csproj.CopyComplete
+/Users/teague/Downloads/GitHub/BJSSTestATeague/BjssSelenium/BjssSelenium/obj/Debug/BjssSelenium.dll
+/Users/teague/Downloads/GitHub/BJSSTestATeague/BjssSelenium/BjssSelenium/obj/Debug/BjssSelenium.pdb

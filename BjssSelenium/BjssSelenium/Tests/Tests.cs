@@ -61,7 +61,7 @@ namespace BjssSelenium
             orderHistoryPage.ClickOnOrder(DateTime.Now.AddDays(-1));
             string date = DateTime.Now.ToString("dd/MM/yyyy hh:mm");
             orderHistoryPage.AddCommentToOrder(1, "Comment added: " + date);
-            bool commentExists = orderHistoryPage.CheckCommentExists("Comment added: " + date);
+            bool commentExists = orderHistoryPage.CheckCommentExists("Comment added on: " + date);
             Assert.IsTrue(commentExists);
         }
 
