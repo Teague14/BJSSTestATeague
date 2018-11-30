@@ -12,7 +12,7 @@ namespace BjssSelenium
         {
             LandingPage landingPage = new LandingPage();
             LoginPage loginPage = landingPage.ClickSignIn();
-            MyAccountPage myAccountPage =loginPage.Login("ateague@bjss.com", "BJSSTest");
+            MyAccountPage myAccountPage =loginPage.Login("ateague@bjss.com", "07123123123");
 
             DressListPage dressListPage = myAccountPage.SelectDressTypeFrmMenu("Summer Dresses");
             dressListPage.QuickViewItemByIndex(3);
@@ -55,7 +55,7 @@ namespace BjssSelenium
         {
             LandingPage landingPage = new LandingPage();
             LoginPage loginPage = landingPage.ClickSignIn();
-            MyAccountPage myAccountPage = loginPage.Login("ateague@bjss.com", "BJSSTest");
+            MyAccountPage myAccountPage = loginPage.Login("ateague@bjss.com", "07123123123");
 
             OrderHistoryPage orderHistoryPage = myAccountPage.ClickOrderHistoryBtn();
             orderHistoryPage.ClickOnOrder(DateTime.Now.AddDays(-1));
@@ -72,7 +72,7 @@ namespace BjssSelenium
             {
                 LandingPage landingPage = new LandingPage();
                 LoginPage loginPage = landingPage.ClickSignIn();
-                MyAccountPage myAccountPage = loginPage.Login("ateague@bjss.com", "BJSSTest");
+                MyAccountPage myAccountPage = loginPage.Login("ateague@bjss.com", "07123123123");
 
                 OrderHistoryPage orderHistoryPage = myAccountPage.ClickOrderHistoryBtn();
                 orderHistoryPage.ClickOnOrder(DateTime.Now.AddDays(-1));

@@ -119,7 +119,8 @@ namespace BjssSelenium.Pages
         /// <returns>The proceed to check out.</returns>
         public ShoppingCartPage ClickProceedToCheckOut()
         {
-            wait.Until(ExpectedConditions.ElementToBeClickable(btnProceedToCo));
+            IWebElement elementDisplayed = new WebDriverWait(driver, new TimeSpan(0, 0, 5)).Until(x => x.FindElement(By.XPath("//*[@id='layer_cart']/div[1]/div[2]/div[4]/a")));
+            //wait.Until(ExpectedConditions.ElementToBeClickable(btnProceedToCo));
             btnProceedToCo.Click();
             return new ShoppingCartPage();
         }

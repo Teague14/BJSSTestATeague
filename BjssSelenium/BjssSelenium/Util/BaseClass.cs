@@ -31,7 +31,7 @@ namespace BjssSelenium
             }
         }
 
-        [TestFixtureSetUp]
+        [SetUp]
         public void SetUp()
         {
             driver = new ChromeDriver();
@@ -40,7 +40,7 @@ namespace BjssSelenium
             driver.Manage().Window.Maximize();
         }
 
-        [TestFixtureTearDown]
+        [TearDown]
         public void TearDown()
         {
             driver.Quit();
