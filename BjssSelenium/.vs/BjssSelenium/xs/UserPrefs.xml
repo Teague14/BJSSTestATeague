@@ -3,7 +3,7 @@
     <Files>
       <File FileName="BjssSelenium/Tests/Tests.cs" Line="75" Column="95" />
       <File FileName="BjssSelenium/Util/BaseClass.cs" Line="39" Column="40" />
-      <File FileName="BjssSelenium/Pages/DressListPage.cs" Line="123" Column="1" />
+      <File FileName="BjssSelenium/Pages/DressListPage.cs" Line="121" Column="10" />
     </Files>
     <Pads>
       <Pad Id="MonoDevelop.UnitTesting.TestPad">
@@ -25,10 +25,7 @@
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore>
-      <Breakpoint file="/Users/teague/Downloads/GitHub/BJSSTestATeague/BjssSelenium/BjssSelenium/Tests/Tests.cs" relfile="BjssSelenium/Tests/Tests.cs" line="46" column="1" />
-      <Breakpoint file="/Users/teague/Downloads/GitHub/BJSSTestATeague/BjssSelenium/BjssSelenium/Pages/DressListPage.cs" relfile="BjssSelenium/Pages/DressListPage.cs" line="123" column="1" />
-    </BreakpointStore>
+    <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>
