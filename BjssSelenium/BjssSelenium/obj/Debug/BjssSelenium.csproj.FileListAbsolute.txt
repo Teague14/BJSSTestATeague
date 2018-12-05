@@ -24,3 +24,5 @@
 /Users/teague/Downloads/GitHub/BJSSTestATeague/BjssSelenium/BjssSelenium/obj/Debug/BjssSelenium.dll
 /Users/teague/Downloads/GitHub/BJSSTestATeague/BjssSelenium/BjssSelenium/obj/Debug/BjssSelenium.pdb
 /Users/teague/Downloads/GitHub/BJSSTestATeague/BjssSelenium/BjssSelenium/bin/Debug/nunit.framework.pdb
+/Users/teague/Downloads/GitHub/BJSSTestATeague/BjssSelenium/BjssSelenium/bin/Debug/SeleniumExtras.PageObjects.dll
+/Users/teague/Downloads/GitHub/BJSSTestATeague/BjssSelenium/BjssSelenium/bin/Debug/SeleniumExtras.WaitHelpers.dll
