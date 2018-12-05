@@ -5,21 +5,6 @@
       <File FileName="BjssSelenium/Util/BaseClass.cs" Line="39" Column="40" />
       <File FileName="BjssSelenium/Pages/DressListPage.cs" Line="121" Column="10" />
     </Files>
-    <Pads>
-      <Pad Id="MonoDevelop.UnitTesting.TestPad">
-        <State name="__root__">
-          <Node name="BjssSelenium" expanded="True">
-            <Node name="BjssSelenium" expanded="True">
-              <Node name="BjssSelenium" expanded="True">
-                <Node name="Tests" expanded="True">
-                  <Node name="BuyTwoItems" selected="True" />
-                </Node>
-              </Node>
-            </Node>
-          </Node>
-        </State>
-      </Pad>
-    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.BjssSelenium PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
