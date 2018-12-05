@@ -1,6 +1,8 @@
 ﻿using System;
 using OpenQA.Selenium;
-using OpenQA.Selenium.Support.PageObjects;
+//using OpenQA.Selenium.Support.PageObjects;
+using SeleniumExtras.PageObjects;
+using ExpectedConditions = SeleniumExtras.WaitHelpers.ExpectedConditions;
 using OpenQA.Selenium.Support.UI;
 
 namespace BjssSelenium.Pages
